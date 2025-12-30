@@ -1,0 +1,8 @@
+{
+    "git_repo_url": "https://github.com/yourusername/blog-content.git",
+    "git_branch": "main",
+    "blog_repo_dir": "/root/blog-project/blog-content",
+    "nginx_webroot": "/usr/share/nginx/html",
+    "backup_dir": "/root/blog-project/backups",
+    "log_dir": "/root/blog-project/logs"
+}
