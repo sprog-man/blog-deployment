@@ -1,8 +1,8 @@
 {
-    "git_repo_url": "https://github.com/yourusername/blog-content.git",
-    "git_branch": "main",
-    "blog_repo_dir": "/root/blog-project/blog-content",
-    "nginx_webroot": "/usr/share/nginx/html",
-    "backup_dir": "/root/blog-project/backups",
-    "log_dir": "/root/blog-project/logs"
+    "project_name": "blog-deployment",
+    "blog_dir": "/root/blog-deployment/blog-content",
+    "nginx_dir": "/usr/share/nginx/html",
+    "backup_dir": "/root/blog-deployment/backups",
+    "log_dir": "/root/blog-deployment/logs",
+    "server_ip": "自动检测"
 }

@@ -1,0 +1,16 @@
+baseURL = "http://localhost/"
+languageCode = "zh-cn"
+title = "我的技术博客"
+theme = "ananke"
+
+[params]
+  description = "记录技术学习和实践经验"
+  author = "你的名字"
+  github = "你的GitHub用户名"
+  
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "monokai"

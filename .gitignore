@@ -1,46 +1,32 @@
-# æ—¥å¿—æ–‡ä»¶
-logs/
-*.log
-
-# å¤‡ä»½æ–‡ä»¶
-backups/
-
-# Pythonç¼“å­˜
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-
-# ç¯å¢ƒå˜é‡
-.env
-.env.local
-.env*.local
-
-# ç³»ç»Ÿæ–‡ä»¶
+# ÏµÍ³ÎÄ¼ş
 .DS_Store
 Thumbs.db
+Desktop.ini
+ehthumbs.db
 
-# ç¼–è¾‘å™¨æ–‡ä»¶
+# ±à¼­Æ÷ÎÄ¼ş
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# æ“ä½œç³»ç»Ÿæ–‡ä»¶
-ehthumbs.db
-Desktop.ini
+# Python»º´æ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# æµ‹è¯•ç›¸å…³
-coverage/
-htmlcov/
-.pytest_cache/
-.tox/
+# »·¾³±äÁ¿
+.env
+.env.local
 
-# éƒ¨ç½²ç›¸å…³ï¼ˆä¸è¦åœ¨gitä¸­ä¿å­˜æœåŠ¡å™¨ç‰¹å®šé…ç½®ï¼‰
-secrets/
-keys/
+# ÈÕÖ¾ºÍ±¸·İ£¨ÔÚ·şÎñÆ÷ÉÏÉú³É£¬²»ÔÚgitÖĞ¹ÜÀí£©
+logs/
+backups/
 
-# ä¸´æ—¶æ–‡ä»¶
+# HugoÉú³ÉµÄ¾²Ì¬ÎÄ¼ş
+blog-content/public/
+
+# ÁÙÊ±ÎÄ¼ş
 tmp/
 temp/
