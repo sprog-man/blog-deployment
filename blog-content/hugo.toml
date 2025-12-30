@@ -1,7 +1,7 @@
 baseURL = "http://localhost/"
 languageCode = "zh-cn"
 title = "我的技术博客"
-theme = "ananke"
+##theme = "ananke"
 
 [params]
   description = "记录技术学习和实践经验"
